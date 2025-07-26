@@ -32,6 +32,8 @@ pip install numpy matplotlib opencv-python tensorflow
 
 2.Accuracy Graph
 
+## Screenshots
+
 ![WhatsApp Image 2025-04-17 at 19 39 37_cb85e12b](https://github.com/user-attachments/assets/79aa1f5e-6bc6-4f5f-ab46-46b6731181fe)
 
 ![WhatsApp Image 2025-04-29 at 17 29 22_c4dc5a81](https://github.com/user-attachments/assets/19093067-df0b-4b9d-8642-1580515b9632)
